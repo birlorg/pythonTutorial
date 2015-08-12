@@ -42,4 +42,4 @@ You can Compare numbers using "comparison operators":
 >>> 5 >= 6
 >>> 16 * 2 == 32
 
-Decimal numbers are handled in the 'decimal' module in python, and are not directly covered in this introduction.
+Decimal numbers are handled in the :mod:`python:decimal` module in python, and are not directly covered in this introduction.
