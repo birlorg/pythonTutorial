@@ -16,7 +16,7 @@ First thing to do! Connect to the Internet!
 About me:
 	* I'm deaf and mute.
 	* I've been programming in python for more than 10 years!
-	* I travel the country visiting fabulous places like this city!
+	* I travel the country in my RV visiting fabulous places like this city!
 	* I like almonds.
 
 If you have questions please do one of the following:
@@ -33,6 +33,11 @@ What you can expect:
 	* Working with neighbors!
 	* Lots of Practice!
 	* A hate-free space!
+	
+There are basically 2 reasons to learn to program:
+	* You want to accomplish something else, and programming is a way to get it accomplished.
+	* You want to learn to program so you can get a job programming.
 
-This class is a work at your own pace class, work your way through this set of pages, as you get stuck, or have questions, definitely follow the question instructions above!  If you don't finish in our time here, you can always follow along at home and ask me questions later!
+For example, if your passion is cooking, and you want a way to keep track of your ingredients in the kitchen plus keep track of your recipes, but are frustrated and dislike all the existing recipe programs out there, then your passionate project might be an ingredients and recipe manager.  Programming would be a tool to accomplish your actual passionate project of a recipe and ingredients manager.  This class is about helping you get your feet wet so you can start work on your passionate project.
 
+Since I'm deaf, and most(or all?) of you don't know ASL, this class is a work at your own pace, actively doing and trying things and work your way through this set of pages. As you get stuck, or have questions, definitely follow the question instructions above!  If you don't finish in our time here, you can always follow along at home and ask me questions later!

@@ -24,7 +24,6 @@ Python!
 	* Great Community
 	* Interactive Shell
 	* Nasa, Google, Reddit, Lots of Banks and many Governments use Python.
-
 	* Is now the second most frequently used language in business analytics, after SQL (2012 Berkeley paper: http://db.cs.berkeley.edu/papers/vast12-interview.pdf)
 
 Interactive Shell:
