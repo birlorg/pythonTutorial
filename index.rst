@@ -20,6 +20,8 @@ Contents:
    06-strings
    07-variables
    scripting
+   functions
+   import
    nextSteps
    resources
    glossary

@@ -40,7 +40,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 	* If you get something in red that says "the term 'python' is not recognized...
 	* then type this in to powershell:
 
-[Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python34", "User")
+    [Environment]::SetEnvironmentVariable("Path", "$env:Path;C:\Python34", "User")
 
 	* then restart Powershell (or maybe the entire computer).
 	* The important part is the >>> It's called a 'prompt' It's asking you to type in python!
