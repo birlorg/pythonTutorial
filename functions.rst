@@ -77,7 +77,8 @@ Well that's handy! Python even has help!  What about our printName function, doe
 Well that's not very helpful is it!  But then since we wrote it, python doesn't really know much about it, so maybe it's something we have to do as well, give our function some help::
 
     def printName(argumentsTo):
-        """takes a name (string) and will 
+        """takes a name (string) and will print out "Your name is:" along with
+        the name capitalized.
 		Returns the capitalized name.
         
         example: printName("lucy")

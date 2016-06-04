@@ -7,7 +7,7 @@ Traceback (most recent call last):
 ZeroDivisionError: division by zero
 
 This is an error, also called a Traceback.  This is showing us that Python was unable to carry out the instruction you gave it and why it was unable to do so.  Let's look at it line by line.
-The first line is saying hey, This is an error silly! it's also saying the most recent call will come last, so it will show in order, the instructions it was able to complete that led up to the one that broke, and the one that broke at the very end.  Since we are working from the Interactive Shell, it always processes every line, so there is only 1 line here, line 1.  The actual error then comes next. Here it's "ZeroDivisionError", with a message to follow to help lead us in the right direction.
+The first line is saying hey, This is an error silly! it's also saying the most recent call will come last, so it will show in order, the instructions it was able to complete that led up to the one that broke, and the one that broke at the very end.  Since we are working from the Interactive Shell, it always processes every line, so there is only 1 line here, line 1.  The actual error then comes next. Here it's "ZeroDivisionError", with a message to help lead us in the right direction to fixing the problem.
 
 This is a pretty straightforward error, Just like in math, we are not allowed to divide by zero.  So it tells us this.  Let's try a slightly harder error:
 

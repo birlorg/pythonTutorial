@@ -191,6 +191,6 @@ pseudoxml:
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 push:
-	rsync -re ssh _build/html/* pbs@birl.org:birl.org/python/.
+	rsync -re ssh _build/html/* zie@www.birl.org:birl.org/python/.
 	@echo
 	@echo "Push to birl.org/python finished..."

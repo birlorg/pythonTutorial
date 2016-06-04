@@ -21,11 +21,11 @@ in file name.py::
 
         Now if we run it::
 
-    zoboFab:python zie$ python printName.py
+    zoboFab:python zie$ python name.py
     zoboFab:python zie$
 
 It doesn't seem to do anything! But it did do things! It actually ran everything
-in the file, but the file did not output anything it just defined a function.
+in the file, but the file did not output anything. It just defined a function.
 Let's import it into our interactive interpreter::
 
 	zoboFab:python zie$ python3
@@ -56,21 +56,15 @@ import (another python keyword), let's us import a python file as a "module"
  stuff, and just cover the bare basics.
 
 import takes the name of a python file. For now, it needs to be in the current
-directory. the word after import is the name of the file without the .py extension.
+directory, or one of the modules that python gives you for free. the word after import is the name of the file without the .py extension.
 
-some more examples:
+Another example where the filename is terribleCode.py::
 
-filename: superSpectacularMagic.py
+    import terribleCode
 
-the import command would be:  import superSpectacularMagic
+Or, if we wanted to import both of them::
 
-filename terribleCode.py
-
-import terribleCode
-
-Or, if we wanted to import both of them:
-
-import superSpectacularMagic, terribleCode
+    import name, terribleCode
 
 To access functions, or variables that are inside the python file, you need to
 preface the function or variable name with the name of the import and a period.
@@ -80,3 +74,7 @@ because it lets us group a bunch of functions together, and keep them together,
 and when reading code, you know where the code came from, because the filename
 is there with us the whole time! This is called a "namespace" if you want to
 go read more about the feature.
+
+Python comes with a whole bunch of modules that can be very useful, plus other
+people have written a bunch of modules and released them for us to use. How to
+use them is a little outside the scope of this document, but (https://pypi.python.org/pypi) is the website used for sharing modules.
